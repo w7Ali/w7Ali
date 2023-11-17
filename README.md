@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Wahid Ali]
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist and Python Developer based in [Your Location]. With a strong background in data analysis, machine learning, and software development, I love turning data into actionable insights and building robust applications.
 
@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Python Develop
 - 🌱 I’m constantly learning and exploring new data science techniques and Python libraries.
 - 👯 I’m open to collaborating on innovative data science projects or Python development.
 - 💬 Let's chat about anything related to data science, Python, or technology in general.
-- 📫 Reach me via [Email](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+- 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
 
 ## 🚀 Technologies & Tools
 
 I enjoy working with the following technologies and tools:
 
-- Python (NumPy, Pandas, Scikit-Learn, TensorFlow)
+- Python (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
 - Jupyter Notebooks
 - SQL and NoSQL databases
 - Data Visualization (Matplotlib, Seaborn, Plotly)
@@ -24,7 +24,7 @@ I enjoy working with the following technologies and tools:
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?w7Ali=w7Ali&show_icons=true&theme=radical)](https://github.com/w7Ali)
 
 ## 🛠️ Projects
 
