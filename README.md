@@ -19,7 +19,7 @@ I enjoy working with the following technologies and tools:
 - SQL and NoSQL databases
 - Data Visualization (Matplotlib, Seaborn, Plotly)
 - Machine Learning and Deep Learning
-- Flask and Django for web development
+- Django and Django Rest Framework for web API
 - Git and GitHub for version control
 
 ## 📈 GitHub Stats
@@ -30,7 +30,7 @@ I enjoy working with the following technologies and tools:
 
 Here are some projects that showcase my skills:
 
-1. [Project 1](link-to-project1) - Brief description.
+1. [Project 1]([link-to-project1](https://github.com/w7Ali/DataScience_ML/blob/main/Diabetes_Predicition/Diabetes.png)) - Brief description.
 2. [Project 2](link-to-project2) - Brief description.
 3. ...
 
