@@ -30,8 +30,10 @@ I enjoy working with the following technologies and tools:
 
 Here are some projects that showcase my skills:
 
-1. [Diabetes](https://github.com/w7Ali/DataScience_ML/blob/main/Diabetes_Predicition/Diabetes.png) - Brief description.
-2. [Project 2](link-to-project2) - Brief description.
+1. [Diabetes](https://github.com/w7Ali/DataScience_ML/blob/main/Diabetes_Predicition/Diabetes.png) - Diabetes is a chronic medical condition that affects millions of people worldwide. It is characterized by elevated blood sugar levels, leading to various health complications. This data science project aims to analyze and predict diabetes occurrences based on relevant features, ultimately contributing to early detection and personalized healthcare..
+2. [Chunk Prediction](https://github.com/w7Ali/DataScience_ML/blob/main/Customer_Chunk_Prediction/streamlit-app.gif) - Churn rate is an efficient indicator for subscription-based companies. Identifying customers who aren't happy with provided solutions allows businesses to learn about product or pricing plan weak points, operation issues, and customer preferences and expectations to reduce reasons for churn proactively.
+
+.
 3. ...
 
 ## 📚 Blog & Articles
