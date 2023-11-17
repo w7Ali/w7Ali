@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Python Develop
 - 🌱 I’m constantly learning and exploring new data science techniques and Python libraries.
 - 👯 I’m open to collaborating on innovative data science projects or Python development.
 - 💬 Let's chat about anything related to data science, Python, or technology in general.
-- 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+- 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c/).
 
 ## 🚀 Technologies & Tools
 
