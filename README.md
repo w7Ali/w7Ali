@@ -24,7 +24,7 @@ I enjoy working with the following technologies and tools:
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?w7Ali=w7Ali&show_icons=true&theme=radical)](https://github.com/w7Ali)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=w7Ali&show_icons=true&theme=radical)](https://github.com/w7Ali)
 
 ## 🛠️ Projects
 
