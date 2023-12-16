@@ -40,14 +40,8 @@ Under Progress
 
 Let's connect and discuss data science, Python, or anything else! You can find us on:
 
-- [Twitter](https://twitter.com/codeqwest)
-- [LinkedIn](https://www.linkedin.com/in/devest/)
-- [Facebook](https://www.facebook.com/devesh.tiwari.927980)
-- [Instagram](https://instagram.com/nikdevt)
-- [Medium](https://medium.com/@devesht709)
-- [Quora](https://www.quora.com/profile/Raj-Tripathi-7-1/)
-- [Reddit](https://www.reddit.com/user/South_Assist_5090/)
-- [Twitter](https://twitter.com/codeqwest)
+- [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c)
+- [Email](mr.wahidali7c@gmail.com)
 
 Feel free to explore our repositories, and don't hesitate to reach out. We're always eager to learn and collaborate!
 
