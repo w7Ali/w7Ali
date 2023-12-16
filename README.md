@@ -36,13 +36,12 @@ Here are some projects that showcase our skills:
 ## 📚 Blog & Articles
 Under Progress
 
-## 🌍 Connect with Us
+## 🌍 Connect with Me
 
-Let's connect and discuss data science, Python, or anything else! You can find us on:
+Let's connect and discuss data science, Python, or anything else! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c)
-- [Email](mr.wahidali7c@gmail.com)
-
+- 📫 You can reach me via email at [your.email@example.com](mailto:mr.wahidali7c@gmail.com).
 Feel free to explore our repositories, and don't hesitate to reach out. We're always eager to learn and collaborate!
 
 Thanks for visiting! ✨
