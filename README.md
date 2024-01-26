@@ -41,7 +41,7 @@ Under Progress
 Let's connect and discuss data science, Python, or anything else! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c)
-- 📫 You can reach me via email at [your.email@example.com](mailto:mr.wahidali7c@gmail.com).
+- 📫 You can reach me via email at [contact](mailto:mr.wahidali7c@gmail.com).
 Feel free to explore my repositories, and don't hesitate to reach out. I'm always eager to learn and collaborate!
 
 Thanks for visiting! ✨
