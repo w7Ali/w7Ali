@@ -26,6 +26,10 @@ I enjoy working with the following technologies and tools:
 
 [![Wahid Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=w7Ali&show_icons=true&theme=radical)](https://github.com/w7Ali)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=w7Ali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ## 🛠️ Projects
 
 Here are some projects that showcase my skills:
@@ -43,10 +47,6 @@ Let's connect and discuss data science, Python, or anything else! You can find m
 - [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c)
 - 📫 You can reach me via email at [contact](mailto:mr.wahidali7c@gmail.com).
 Feel free to explore my repositories, and don't hesitate to reach out. I'm always eager to learn and collaborate!
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=w7Ali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 
