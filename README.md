@@ -45,3 +45,6 @@ Let's connect and discuss data science, Python, or anything else! You can find m
 Feel free to explore my repositories, and don't hesitate to reach out. I'm always eager to learn and collaborate!
 
 Thanks for visiting! ✨
+![](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
