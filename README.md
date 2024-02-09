@@ -44,7 +44,16 @@ Let's connect and discuss data science, Python, or anything else! You can find m
 - 📫 You can reach me via email at [contact](mailto:mr.wahidali7c@gmail.com).
 Feel free to explore my repositories, and don't hesitate to reach out. I'm always eager to learn and collaborate!
 
-Thanks for visiting! ✨
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=w7Ali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+---
 ![](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+Thanks for visiting! ✨
