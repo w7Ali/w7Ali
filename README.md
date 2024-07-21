@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate Data Scientists and Python Develope
 
 - 🔭 I'm currently working on leveraging machine learning for CodeCraftingLab.
 - 🌱 I'm constantly learning and exploring new data science techniques and Python libraries.
-- 👯 I'm open to collaborating on innovative data science projects or Python development.
-- 💬 Let's chat about anything related to data science, Python, or technology in general.
+- 👯 I'm open to collaborating on innovative data science projects or Django and fastapi development.
+- 💬 Let's chat about anything related to data science, fastapi, django or technology in general.
 - 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c/).
 
 ## 🚀 Technologies & Tools
@@ -20,6 +20,7 @@ I enjoy working with the following technologies and tools:
 - Data Visualization (Matplotlib, Seaborn, Plotly)
 - Machine Learning and Deep Learning
 - Django and Django Rest Framework for web API
+- FastAPI
 - Git and GitHub for version control
 
 ## 📈 GitHub Stats
