@@ -11,6 +11,19 @@ Welcome to my GitHub profile! I'm a **Python AI & ML Developer | Generative AI**
 - 💬 Let's chat about anything related to **data science**, **AI**, **machine learning**, **FastAPI**, **Django**, or **technology in general**.
 - 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c/).
 
+
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=ml" alt="ML" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=database" alt="Database" width="40" height="40" />
+
+
+**Libraries & Frameworks:**
+
+<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=scikit_learn" alt="Scikit-learn" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=rag" alt="RAG" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="40" height="40" />
+
+
+
+
 ## 🚀 Technologies & Tools
 
 Here are some of the tools and technologies I work with:
