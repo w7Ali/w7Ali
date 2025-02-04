@@ -1,27 +1,31 @@
 # Hi there! 👋 I'm [Wahid Ali](https://github.com/w7Ali)
 
-Welcome to my GitHub profile! I'm passionate Data Scientists and Python Developers based in Ludhiana, Punjab. With a strong background in data analysis, machine learning, and software development, I love turning data into actionable insights and building robust applications.
+Welcome to my GitHub profile! I'm a passionate Data Scientist, Python Developer, and Full Stack Developer based in Ludhiana, Punjab. With expertise in data analysis, machine learning, AI, and software development, I enjoy transforming data into actionable insights and building innovative applications.
 
-## 🌱 About Us
+## 🌱 About Me
 
-- 🔭 I'm currently working on leveraging machine learning for CodeCraftingLab.
-- 🌱 I'm constantly learning and exploring new data science techniques and Python libraries.
-- 👯 I'm open to collaborating on innovative data science projects or Django and fastapi development.
-- 💬 Let's chat about anything related to data science, fastapi, django or technology in general.
+- 🔭 I'm currently working on integrating AI in software development with a focus on Generative AI, LangChain, RAG systems, and AI tools.
+- 🌱 I have gained expertise in using the Solid Principles and Design Patterns to build scalable, maintainable, and efficient applications.
+- 💻 I'm also a full-stack developer, proficient in ReactJS, HTML, CSS, and JavaScript, and I love combining web development with AI and ML.
+- 👯 I'm open to collaborating on AI-driven projects, full-stack development, and exploring new technologies and tools.
+- 💬 Let's chat about anything related to data science, AI, machine learning, fastapi, Django, or technology in general.
 - 📫 Reach me via [Email](mailto:mr.wahidali7c@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c/).
 
 ## 🚀 Technologies & Tools
 
 I enjoy working with the following technologies and tools:
 
-- Python (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
-- Jupyter Notebooks
-- SQL and NoSQL databases
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Machine Learning and Deep Learning
-- Django and Django Rest Framework for web API
-- FastAPI
-- Git and GitHub for version control
+- **Python** (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
+- **Machine Learning & Deep Learning** 
+- **Generative AI** and **LangChain**
+- **RAG Systems** (Retrieval-Augmented Generation)
+- **AI Agents & Tools**
+- **ReactJS** for front-end development
+- **Django** and **FastAPI** for backend & API development
+- **SQL** and **NoSQL** databases
+- **Data Visualization** (Matplotlib, Seaborn, Plotly)
+- **Git & GitHub** for version control
+- **Solid Principles & Design Patterns** for clean code architecture
 
 ## 📈 GitHub Stats
 
@@ -30,31 +34,27 @@ I enjoy working with the following technologies and tools:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=w7Ali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 ## 🛠️ Projects
 
 Here are some projects that showcase my skills:
 
-1. [Diabetes](https://github.com/w7Ali/DataScience_ML/blob/main/Diabetes_Predicition/Diabetes.png) - Diabetes is a chronic medical condition that affects millions of people worldwide. It is characterized by elevated blood sugar levels, leading to various health complications. This data science project aims to analyze and predict diabetes occurrences based on relevant features, ultimately contributing to early detection and personalized healthcare.
-2. [Chunk Prediction](https://github.com/w7Ali/DataScience_ML/blob/main/Customer_Chunk_Prediction/streamlit-app.gif) - Churn rate is an efficient indicator for subscription-based companies. Identifying customers who aren't happy with provided solutions allows businesses to learn about product or pricing plan weak points, operation issues, and customer preferences and expectations to reduce reasons for churn proactively.
+1. [Diabetes Prediction](https://github.com/w7Ali/DataScience_ML/blob/main/Diabetes_Predicition/Diabetes.png) - A data science project to predict diabetes occurrences based on key health features, promoting early detection and personalized healthcare.
+2. [Customer Churn Prediction](https://github.com/w7Ali/DataScience_ML/blob/main/Customer_Chunk_Prediction/streamlit-app.gif) - This project analyzes customer churn in subscription-based businesses, helping identify factors that may lead to customer dissatisfaction.
 
 ## 📚 Blog & Articles
 Under Progress
 
 ## 🌍 Connect with Me
 
-Let's connect and discuss data science, Python, or anything else! You can find me on:
+Let's connect and discuss data science, AI, full-stack development, or anything else! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mr-wahid-ali-7c)
 - 📫 You can reach me via email at [contact](mailto:mr.wahidali7c@gmail.com).
+
 Feel free to explore my repositories, and don't hesitate to reach out. I'm always eager to learn and collaborate!
 
-
-
 ---
+
 ![](https://visitcount.itsvg.in)
-
-
-
 
 Thanks for visiting! ✨
