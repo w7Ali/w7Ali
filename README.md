@@ -22,18 +22,6 @@ Welcome to my GitHub profile! I'm a **Python AI & ML Developer | Generative AI**
 <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=scikit_learn" alt="Scikit-learn" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=rag" alt="RAG" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="40" height="40" />
 
 
-
-<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-learn" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=search,book" alt="RAG" width="40" height="40" />  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="40" height="40" /> 
-<img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="40" height="40" /> 
 ## 🚀 Technologies & Tools
 
 Here are some of the tools and technologies I work with:
